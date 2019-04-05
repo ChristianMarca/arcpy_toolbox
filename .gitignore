@@ -1,4 +1,6 @@
 Archivos Base de Datos/
 data/*
 temp/*
+!data/.gitkeep 
+!temp/.gitkeep 
 World Topographic Map.lyr
